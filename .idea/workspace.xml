@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a52c8a20-feb9-4cd4-a4b8-0126f1ca4b09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bai_tap_ve_nha/bai1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap_ve_nha/bai2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap_ve_nha/bai3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/Thuc-hanh/Abstract_Class_&amp;_Interface/AbtractAndInterfaceTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/Thuc-hanh/Abstract_Class_&amp;_Interface/Animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/Thuc-hanh/Abstract_Class_&amp;_Interface/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/Thuc-hanh/Abstract_Class_&amp;_Interface/Tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Colorable/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Colorable/Colorable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Colorable/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Colorable/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Colorable/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Colorable/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Resizeable/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Resizeable/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Resizeable/Resizeable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Resizeable/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Resizeable/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Resizeable/interfaceResizeable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc_hanh/Animal_và _interface_Edible/AbtractAndInterfaceTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc_hanh/Animal_và _interface_Edible/Animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc_hanh/Animal_và _interface_Edible/Apple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc_hanh/Animal_và _interface_Edible/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc_hanh/Animal_và _interface_Edible/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc_hanh/Animal_và _interface_Edible/Fruit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc_hanh/Animal_và _interface_Edible/Orange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc_hanh/Animal_và _interface_Edible/Tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc_hanh/Comparable/Circlee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc_hanh/Comparable/Comparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc_hanh/Comparable/ComparableCircle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc_hanh/Comparable/ComparableCircleMain.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ild1FucBRDPNKhFFs701QzYSAj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Thuc_hanh/Animal_và _interface_Edible" />
+      <recent name="$PROJECT_DIR$/Thuc_hanh" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a52c8a20-feb9-4cd4-a4b8-0126f1ca4b09" name="Default Changelist" comment="" />
+      <created>1602485895649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602485895649</updated>
+      <workItem from="1602485896769" duration="12128000" />
+      <workItem from="1602498731173" duration="3569000" />
+      <workItem from="1602515500441" duration="92000" />
+      <workItem from="1602551096405" duration="4012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="235" width="732" height="644" key="#Inspections" timestamp="1602497813892">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="623" y="235" width="732" height="644" key="#Inspections/68.27.1852.1053@68.27.1852.1053" timestamp="1602497813892" />
+    <state x="802" y="272" width="441" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1602497703791">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="802" y="272" width="441" height="576" key="#com.intellij.ide.util.MemberChooser/68.27.1852.1053@68.27.1852.1053" timestamp="1602497703791" />
+    <state x="217" y="27" width="585" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602499042640">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="217" y="27" width="585" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/68.27.1852.1053@68.27.1852.1053" timestamp="1602499042640" />
+    <state x="777" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602515590412">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="777" y="311" width="424" height="491" key="FileChooserDialogImpl/68.27.1852.1053@68.27.1852.1053" timestamp="1602515590412" />
+    <state x="796" y="273" width="521" height="610" key="NewPhpClassDialog" timestamp="1602551466172">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="796" y="273" width="521" height="610" key="NewPhpClassDialog/68.27.1852.1053@68.27.1852.1053" timestamp="1602551466172" />
+    <state x="789" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1602551650787">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="789" y="479" width="399" height="156" key="NewPhpFileDialog/68.27.1852.1053@68.27.1852.1053" timestamp="1602551650787" />
+    <state x="483" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1602499220166">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="483" y="188" width="1022" height="737" key="SettingsEditor/68.27.1852.1053@68.27.1852.1053" timestamp="1602499220166" />
+    <state x="826" y="314" width="325" height="485" key="refactoring.ChangeSignatureDialog" timestamp="1602499323618">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="826" y="314" width="325" height="485" key="refactoring.ChangeSignatureDialog/68.27.1852.1053@68.27.1852.1053" timestamp="1602499323618" />
+    <state x="657" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1602562889177">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="657" y="259" width="672" height="678" key="search.everywhere.popup/68.27.1852.1053@68.27.1852.1053" timestamp="1602562889177" />
+  </component>
+</project>
